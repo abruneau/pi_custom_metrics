@@ -93,7 +93,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   wget https://github.com/abruneau/pi_custom_metrics/releases/download/1.0.1/pi_custom_metrics_v1.0.1-next_linux_armv7.deb
+   wget https://github.com/abruneau/pi_custom_metrics/releases/download/1.0.1/pi_custom_metrics_1.0.1_linux_armv7.deb
    ```
 2. Install deb packages
    ```sh
@@ -181,15 +181,15 @@ Project Link: [https://github.com/abruneau/pi_custom_metrics](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/abruneau/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/abruneau/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/abruneau/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/abruneau/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/abruneau/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/abruneau/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/abruneau/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/abruneau/repo/issues
-[license-shield]: https://img.shields.io/github/license/abruneau/repo.svg?style=for-the-badge
-[license-url]: https://github.com/abruneau/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/abruneau/pi_custom_metrics.svg?style=for-the-badge
+[contributors-url]: https://github.com/abruneau/pi_custom_metrics/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/abruneau/pi_custom_metrics.svg?style=for-the-badge
+[forks-url]: https://github.com/abruneau/pi_custom_metrics/network/members
+[stars-shield]: https://img.shields.io/github/stars/abruneau/pi_custom_metrics.svg?style=for-the-badge
+[stars-url]: https://github.com/abruneau/pi_custom_metrics/stargazers
+[issues-shield]: https://img.shields.io/github/issues/abruneau/pi_custom_metrics.svg?style=for-the-badge
+[issues-url]: https://github.com/abruneau/pi_custom_metrics/issues
+[license-shield]: https://img.shields.io/github/license/abruneau/pi_custom_metrics.svg?style=for-the-badge
+[license-url]: https://github.com/abruneau/pi_custom_metrics/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/antoninbruneau
