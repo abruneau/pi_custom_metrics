@@ -97,7 +97,7 @@ To get a local copy up and running follow these simple steps.
    ```
 2. Install deb packages
    ```sh
-   sudo apt install pi_custom_metrics_v1.0.0-next_linux_armv7.deb
+   sudo apt install pi_custom_metrics_1.0.1_linux_armv7.deb
    ```
 
 
