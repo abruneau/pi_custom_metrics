@@ -93,7 +93,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   wget https://github.com/abruneau/pi_custom_metrics/releases/download/1.0.0/pi_custom_metrics_v1.0.0-next_linux_armv7.deb
+   wget https://github.com/abruneau/pi_custom_metrics/releases/download/1.0.1/pi_custom_metrics_v1.0.1-next_linux_armv7.deb
    ```
 2. Install deb packages
    ```sh
