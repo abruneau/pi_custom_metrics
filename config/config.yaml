@@ -1,0 +1,25 @@
+###########################
+## Logging Configuration ##
+###########################
+
+## @param log_level - string - optional - default: info
+## Minimum log level.
+## Valid log levels are: trace, debug, info, warn, error, critical, and off.
+## Note: When using the 'off' log level, quotes are mandatory.
+#
+# log_level: 'info'
+
+## @param log_file - string - optional
+## Path of the log file.
+#
+# log_file: <LOG_FILE_PATH>
+
+## @param log_to_console - boolean - optional - default: true
+## Set to 'false' to disable logging to stdout.
+#
+# log_to_console: true
+
+## @param log_to_file - boolean - optional - default: true
+## Set to 'false' to disable logging to the log file.
+#
+# log_to_file: false

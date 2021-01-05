@@ -1,0 +1,11 @@
+[Unit]
+Description=Datadog custom metrics
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/local/bin/pi_custom_metrics
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
